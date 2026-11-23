@@ -21,8 +21,10 @@
     <ClCompile Include="Integrity.h">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Integrity.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Encryption.h">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
